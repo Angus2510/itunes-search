@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20210408/pngtree-colorful-funny-cute-alphabet-education-image_603554.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.container{
+    margin-top: 10%;
+    
+}
+.searchbar{
+    padding-bottom: 4rem;
+}
+
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.flex-container >div {
+    padding: 5px;
+    
+}
+.return{    
+    font-size: small;
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid rgb(13, 66, 112);
+    text-align: center;
+    padding-bottom: 2rem;
+    max-width: 80%;
+}
