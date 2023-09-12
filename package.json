@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "1) how to use the app, if you are looking for an artist all you have to do is click what type of media you are looking for in the radios, you then click search. the media that you have chosen will come up below the search bar, you can then click your favorite songs etc which will then be sent to the bottom of the page in your own favorite section, you can also delete the media from this section",
   "main": "index.js",
+  "homepage": "https://github.com/Angus2510/itunes-search.git",
   "scripts": {
     "install-server": "cd backend && npm install",
     "start-server": "cd backend && node app.js",
